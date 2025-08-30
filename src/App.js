@@ -7,6 +7,8 @@ import TestimonialsSection from "./components/TestimonialsSection";
 import BookingForm from "./components/BookingForm";
 import Footer from "./components/Footer";
 
+
+
 function App() {
   return (
     <div>
@@ -17,6 +19,7 @@ function App() {
       <TestimonialsSection />
       <BookingForm />
       <Footer />
+      
     </div>
   );
 }
